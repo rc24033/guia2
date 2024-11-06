@@ -1,0 +1,28 @@
+
+body {
+  background-color: black;
+  color: white;
+  font-family: Arial, sans-serif;
+}
+
+
+header {
+  text-align: center;
+}
+
+
+h3 {
+  font-style: italic;
+}
+
+
+section {
+  font-family: Helvetica, sans-serif;
+  font-size: 12pt;
+  text-align: justify;
+}
+
+
+footer {
+  text-align: center;
+}
